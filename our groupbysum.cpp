@@ -9,6 +9,7 @@
 #define PERSON 6		 // sample recipient
 int* RandVecADD(int*a, int n);
 void Print(int*a, int n);
+
 int main()
 {
 	cout << "our group by " << dimension << endl;
